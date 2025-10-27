@@ -26,10 +26,6 @@ Sistemin en yetkili kullanıcısıdır.
 
 seed.php dosyasında admin hesabı tanımlıdır:
 
-Kullanıcı adı: admin@example.com
-
-Şifre: admin123
-
 Admin, firma yetkilisi (firma admin) ekleme ve yönetme işlemlerini yapabilir.
 
 Yeni bir firma admin oluşturduğunda, o kullanıcı sistemde ilgili firmanın paneline erişim sağlar.
